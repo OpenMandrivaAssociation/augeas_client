@@ -7,7 +7,7 @@ Version:        1.0.0
 Release:        1
 License:        GPL
 #URL:            
-Group:          User Interface/Desktops
+Group:          Graphical desktop/Other
 Source0:        %{name}-%{version}.tar.bz2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 BuildRequires:  gnome-doc-utils, libgnomeui2-devel
